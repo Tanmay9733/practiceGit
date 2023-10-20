@@ -1,2 +1,4 @@
 # practiceGit
-This is my first Git Repository. Author-Tanmay Rana
+This is my first Git Repository.
+<br>
+Author-Tanmay Rana
